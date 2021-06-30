@@ -1,0 +1,6 @@
+module Pods_react_native_redux {
+  umbrella header "Pods-react_native_redux-umbrella.h"
+
+  export *
+  module * { export * }
+}
