@@ -1,0 +1,14 @@
+com/react_native_redux/BuildConfig.java
+ com.react_native_redux.BuildConfig
+com/react_native_redux/ReactNativeFlipper.java
+ com.react_native_redux.ReactNativeFlipper
+ com.react_native_redux.ReactNativeFlipper$1
+ com.react_native_redux.ReactNativeFlipper$2
+ com.react_native_redux.ReactNativeFlipper$2$1
+com/react_native_redux/MainApplication.java
+ com.react_native_redux.MainApplication
+ com.react_native_redux.MainApplication$1
+com/react_native_redux/MainActivity.java
+ com.react_native_redux.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
